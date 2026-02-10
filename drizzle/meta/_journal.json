@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1770715975463,
+      "tag": "0000_supreme_chimera",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1770719162049,
+      "tag": "0001_rich_may_parker",
+      "breakpoints": true
+    }
+  ]
+}
